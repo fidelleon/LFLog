@@ -1,0 +1,7 @@
+psycopg[c]
+pip
+django
+dj-database-url
+psycopg_pool
+channels[daphne]
+channels_redis
