@@ -1,7 +1,8 @@
-psycopg[c]
-pip
-django
-dj-database-url
-psycopg_pool
 channels[daphne]
 channels_redis
+dj-database-url
+django
+djangorestframework
+pip
+psycopg[c]
+psycopg_pool
