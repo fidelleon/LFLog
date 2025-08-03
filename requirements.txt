@@ -3,6 +3,8 @@ channels_redis
 dj-database-url
 django
 djangorestframework
-pip
+geopy
 psycopg[c]
 psycopg_pool
+requests
+xmltodict
