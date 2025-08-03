@@ -49,6 +49,8 @@ INSTALLED_APPS = [
     'cust_user',
     'my_station',
     'adif',
+    'qsling',
+    'clublog',
 ]
 
 MIDDLEWARE = [
